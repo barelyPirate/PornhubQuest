@@ -2,6 +2,8 @@
 
 ## :gift_heart: Star or Watch this repo so you'll know when it gets updated and more features are added
 
+## Soon to be updated, so you can use Windows Media Server as file streamer for DLNA, no need for FTP storage.
+
 ## Tested on Python 3.10.9, might work with other versions too
 
 it Uses YT-DLP to download the Videos and then upload the videos to an FTP server later on. If you are using a VR, I believe you already have a Wifi. You can see youtube tutorials to setup the FTP Servers.
