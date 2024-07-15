@@ -25,3 +25,12 @@ There are some binary files, it is not malicious. However if you don't believe m
 ## for Linux, you can download the Linux version of ffmpeg and yt-dlp
 
 ## Any issues? just copy and paste the Error in the new Issue.
+
+## This code works with any website which yt-dlp can download
+Pornhub
+
+Eporner
+
+Spankbang
+
+etc.
