@@ -22,6 +22,6 @@ There are some binary files, it is not malicious. However if you don't believe m
 
 ## Only Tested in Windows rn
 
-## for Linux, you can download the Linux vertsion of ffmpeg and yt-dlp
+## for Linux, you can download the Linux version of ffmpeg and yt-dlp
 
 ## Any issues? just copy and paste the Error in the new Issue.
