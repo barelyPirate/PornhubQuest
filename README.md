@@ -1,4 +1,4 @@
-# Oculus/Meta Quest Pornhub Helper or any website helper whose video can be downloaded via yt-dlp
+# :hot_face: Oculus/Meta Quest Pornhub Helper or any website helper whose video can be downloaded via yt-dlp
 
 ## :gift_heart: Star or Watch this repo so you'll know when it gets updated and more features are added
 
@@ -26,9 +26,9 @@ There are some binary files, it is not malicious. However if you don't believe m
 
 ## for Linux, you can download the Linux version of ffmpeg and yt-dlp
 
-## Any issues? just copy and paste the Error in the new Issue.
+## Any issues? just copy and paste the Error in the new Issue. :left_speech_bubble: 	
 
-## This code works with any website which yt-dlp can download
+## This code works with any website which yt-dlp can download :sweat_drops:
 Pornhub
 
 Eporner
