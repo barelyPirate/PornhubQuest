@@ -1,4 +1,4 @@
-# Oculus/Meta Quest Pornhub Helper 
+# Oculus/Meta Quest Pornhub Helper or any website helper whose video can be downloaded via yt-dlp
 
 ## Tested on Python 3.10.9, might work with other versions too
 
