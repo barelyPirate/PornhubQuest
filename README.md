@@ -2,7 +2,8 @@
 
 ## :gift_heart: Star or Watch this repo so you'll know when it gets updated and more features are added
 
-## Soon to be updated, so you can use Windows Media Server as file streamer for DLNA, no need for FTP storage.
+## Update
+> Added a new script called ```main-dlna.py```, this will work with your dlna server in the PC, it'll download the pornhub video fully then place it on your DLNA server folder.
 
 ## Tested on Python 3.10.9, might work with other versions too
 
